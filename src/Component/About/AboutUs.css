@@ -1,0 +1,35 @@
+
+body{
+    background-color: #ffffff;
+}
+
+.divAbout{
+    padding-top: 50px;
+    padding-left: 50px;
+    
+    font-size: 24px;
+    
+}
+.divAbout h1{
+    margin-left:500px;
+    color:#1b88f5;
+}
+.divAbout h4{
+    margin-top: 20px;
+    font-size: 18px;
+    color:#807c7c;
+    margin-left: 40px;
+    font-family: sans-serif,Arial, Helvetica, sans-serif,Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
+.divAbout h3{
+    margin-top: 40px;
+}
+.divAbout h5{
+    margin-top: 40px;
+    font-size: 21px;
+    color:#444040;
+    margin-left: 250px;
+    font-family: sans-serif,Arial, Helvetica, sans-serif,Verdana, Geneva, Tahoma, sans-serif;
+}

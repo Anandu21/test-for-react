@@ -1,0 +1,44 @@
+.divOneLogin{
+    border: 1px solid black;
+    left:50%;
+    top:50%;
+    width: 50%;
+    border-radius: 5px;
+    position: absolute;
+    padding: 10px;
+    transform: translate(-50%, -50%);
+}
+.divOneLogin input{
+    margin-left: 200px;
+    width:50%;
+    height:30px;
+    border-radius: 2px solid black;
+    font-size: 18px;
+
+}
+.divOneLogin label{
+    margin-left: 200px;
+    font-size: 18px;
+}
+.divOneLogin h1{
+    margin-left: 250px;
+    font-size: 35px;
+    color:#007fe0;
+}
+.divOneLogin button{
+    width:50%;
+    height:48px;
+    margin-left: 200px;
+    background-color: #0266a1;
+    color: whitesmoke;
+    font-size: 20px;
+
+}
+.divOneLogin button:hover{
+    background-color:#8b979e;
+    border: 2 px solid #0266a1;
+}
+.divOneLogin a {
+    margin-left: 170px;
+    font-size: 24px;
+}
